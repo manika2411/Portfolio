@@ -91,7 +91,7 @@
           "tech": ["HTML", "CSS", "JavaScript", "API"],
           "image": "weather.png",
           "github": "https://github.com/manika2411/Weather-App",
-          "live": "https://weather-app-pied-iota.vercel.app/"
+          "live": "https://weather-app-pied-iota.vercel.app"
         }
       ]
     },
