@@ -19,7 +19,7 @@
       "sections": [
         {
           "heading": "My Web Development Journey",
-          "text": "My journey into web development began with a deep curiosity about how websites function. Over time, this curiosity turned into a passion."
+          "text": "My journey into web development began with a deep curiosity about how websites function. Over time, this curiosity turned into a passion for building interactive user interfaces, improving web experiences, and staying updated with the latest industry trends. This passion eventually led me to explore backend technologies and become a full stack developer."
         },
         {
           "heading": "What I Do Best",
@@ -33,11 +33,11 @@
         },
         {
           "heading": "Expanding My Knowledge",
-          "text": "As a full stack developer, I continuously seek to strengthen my skills across both frontend and backend technologies."
+          "text": "As a full stack developer, I continuously seek to strengthen my skills across both frontend and backend technologies. I'm constantly exploring new frameworks, tools, and best practices to deliver scalable, high-performing web applications."
         },
         {
           "heading": "My Passion and Goals",
-          "text": "I thrive on continuous learning, problem-solving, and building intuitive digital experiences."
+          "text": "I thrive on continuous learning, problem-solving, and building intuitive digital experiences. My goal is to develop impactful, high-performing, accessible, and visually stunning web applications while consistently pushing my skills to new heights."
         }
       ]
     },
@@ -93,8 +93,6 @@
           "github": "https://github.com/manika2411/Weather-App",
           "live": "hhttps://weather-app-pied-iota.vercel.app/"
         }
-        
-        
       ]
     },
     "contact": {
@@ -108,4 +106,3 @@
       "formAction": "https://formsubmit.co/manikasingla24@gmail.com"
     }
   }
-  
